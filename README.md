@@ -1,3 +1,6 @@
+MONTH-2
+
+
 # CineTrack — Movie & TV Show Review Platform (Topic 7)
 
 React 18 + Vite + Tailwind + Recharts + Framer Motion. No backend needed: all user data lives in `localStorage`.
